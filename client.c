@@ -2,7 +2,6 @@
 #include <WinSock2.h>
 #pragma comment(lib, "ws2_32.lib")  //加载 ws2_32.dll
 #define BUF_SIZE 512
-/*Jianxiong2333/wm/winkidney/ian*/
 
 /*对端IP和端口结构体*/
 typedef struct {
